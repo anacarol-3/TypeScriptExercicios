@@ -1,6 +1,3 @@
-ExerciciosTypeEdu
-Exercícios de type separados e transpilados como solicitado pelo professor Edu.
+Este repositório reúne os exercícios de TypeScript desenvolvidos para a disciplina do professor Edu. Cada atividade foi organizada em sua própria pasta, contendo o arquivo de configuração tsconfig.json, o código principal em TypeScript e o código já transpilado em JavaScript, permitindo que cada exercício funcione de forma independente e possa ser testado individualmente. A execução dos programas deve ser feita no terminal Git Bash integrado ao VS Code, utilizando o comando npm start.
 
-Cada exercicio em sua respectiva pasta, junto ao tsconfig, seu codigo principal, e o codigo transpilado, todos os exercicios funcionam independentemente, feitos para serem testados um a um. Comando para inicializacao do codigo pelo terminal do gitbash pelo vs code é npm start
-
-FEITO POR Ana Carolina Santos RA:2506285
+Trabalho desenvolvido por Ana Carolina Santos – RA: 2506285.
